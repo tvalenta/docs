@@ -309,8 +309,6 @@ h4 { font-size: 22px; font-weight: 500; }
 }
 
 .toc {
-    margin-right: 16px;
-
     // Render links like headings.
     a {
         color: inherit !important;
@@ -326,8 +324,6 @@ h4 { font-size: 22px; font-weight: 500; }
     }
 
     .sidenav-section {
-        font-size: 13px;
-        line-height: 20px;
         padding: 8px 0;
     }
 
