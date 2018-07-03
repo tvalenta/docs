@@ -23,3 +23,8 @@ toc:
       path: /aws/sns.html
     - title: SQS
       path: /aws/sqs.html
+- title: Compared to
+  path: 
+  section:
+    - title: Terraform
+      path: /vs/terraform.html
