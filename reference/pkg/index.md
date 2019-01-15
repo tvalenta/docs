@@ -57,4 +57,5 @@ These libraries help with common cloud programming patterns and practices:
 
 ## Python
 
-Coming soon!
+* [Amazon Web Services (`pulumi_aws`)](python/pulumi_aws)
+* [Random (`pulumi_random`)](python/pulumi_random)
